@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/test_output_shaper
+lib/test_output_shaper.rb
+test/test_test_output_shaper.rb
