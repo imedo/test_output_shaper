@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = %q{TestOutputShaper}
-  s.version = "0.0.2"
-  s.date = %q{2008-06-24}
+  s.version = "0.0.3"
+  s.date = %q{2008-06-25}
   s.summary = %q{Shapes the output of Test::Unit like this:  CategoryTest	...F.F.FF.E..}
   s.email = ["christian.weis@imedo.de"]
   s.homepage = %q{http://opensource.imedo.de/pages/show/test_output_shaper}
