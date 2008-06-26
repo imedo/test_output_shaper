@@ -1,5 +1,5 @@
 require 'test/unit'
-# TestOutputShaper Module to make the @once workaround work.
+# TestOutputShaper Module to make the @@once workaround work.
 module TestOutputShaper
   @@once ||= begin # Workaround to prevent the module from being loaded more than once. Otherwise alias does evil things.
     VERSION = '0.0.2'
